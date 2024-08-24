@@ -3,7 +3,7 @@
 
 EN
 
-I have the need to create a small container for several ESP32 Wroom that I use for Home assistant... 
+I had the need to create a small container for several ESP32 Wroom that I use for Home assistant... 
 
 As I have a lasercutter that works well on plywood I've created a layer-based case to be used to prevent 
 short circuits on the ESP32s pins once they are scattered all around in the house.
