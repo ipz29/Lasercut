@@ -13,7 +13,7 @@ short circuits on the ESP32s pins once they are scattered all around in the hous
 I hope this design will be helpful for you, if so drop me a beer :-)
 
 
-
+-------------------------------------------------------------------------------------------------
 
 IT
 
